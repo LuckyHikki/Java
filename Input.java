@@ -23,5 +23,7 @@ System.out.println("diff="+diff);
 System.out.println("pro="+pro);
 System.out.println("div="+div);
 System.out.println("\n");
+    
+System.out.print(ai+bi+ci+di+ei);
 }
 }
