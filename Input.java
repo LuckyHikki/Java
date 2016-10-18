@@ -11,6 +11,7 @@ int sum, diff, pro, div;
     
 System.out.print(ai+" ");
 System.out.print(bi+" ");
+System.out.print(ci+" ");
 System.out.print(di+" ");
 System.out.print(ei+"\n");
 sum = ai + bi + ci + di + ei;
