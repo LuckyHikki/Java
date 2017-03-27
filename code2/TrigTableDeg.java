@@ -8,7 +8,7 @@ double r = 0, rround = 0; //radian measure
 double pi = 3.14159265358979323846;
 int i = 15;
 String undefined = "UN";
-System.out.println("\trad \t|\tcos\t|\tsin\t|\ttan" ) ;
+System.out.println("\tdeg \t|\tcos\t|\tsin\t|\ttan" ) ;
 System.out.println("----------------------------------------------------------------------------------");
 while (d <= 360){
 r = d * (pi/180.0);
