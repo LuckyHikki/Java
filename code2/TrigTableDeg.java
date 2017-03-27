@@ -8,7 +8,6 @@ double r = 0, rround = 0; //radian measure
 double pi = 3.14159265358979323846;
 int i = 15;
 String undefined = "UN";
-System.out.println("radian measurement is represented as rad");
 System.out.println("\trad \t|\tcos\t|\tsin\t|\ttan" ) ;
 System.out.println("----------------------------------------------------------------------------------");
 while (d <= 360){
